@@ -14,8 +14,9 @@ You will need:
 * composer-cli installed globally (`npm install -g composer-cli@0.13.1`)
 * composer-rest-server installed globally (`npm install -g composer-rest-server@0.13.1`)
 
+From 'hmlr-populate/'
 ```bash
-/hmlr-populate/start.sh
+./start.sh
 ```
 
 This will start up Playground locally alongside a local instance of Hyperledger Fabric. It's basically doing [this](https://hyperledger.github.io/composer/installing/using-playground-locally.html).
